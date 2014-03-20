@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.oakcity.dsc</groupId>
+	<artifactId>dsc-it100-java-examples</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<description>Example Projects using the dsc-it100-java library.</description>
+
+	<modules>
+		<module>dsc-xbmc-notifications</module>
+	</modules>
+
+	<url>https://github.com/kmbulebu/dsc-it100-java-examples</url>
+	<inceptionYear>2013</inceptionYear>
+	<developers>
+		<developer>
+			<id>kmbulebu</id>
+		</developer>
+	</developers>
+	<scm>
+		<connection>scm:git:https://github.com/kmbulebu/dsc-it100-java-examples.git</connection>
+		<developerConnection>scm:git:ssh://github.com/dsc-it100-java-examples.git</developerConnection>
+		<url>https://github.com/kmbulebu/dsc-it100-java-examples</url>
+	</scm>
+
+</project>
